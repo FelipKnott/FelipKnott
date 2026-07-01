@@ -174,15 +174,15 @@ Rule: No code is written before
 <div align="center">
 
 <a href="https://github.com/FelipKnott">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FelipKnott&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-stats-extended.vercel.app/api?username=FelipKnott&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/FelipKnott">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipKnott&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" />
+  <img height="170em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=FelipKnott&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" />
 </a>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipKnott&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+<img src="https://streak-stats.demolab.com/?user=FelipKnott&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 
 </div>
 
