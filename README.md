@@ -162,9 +162,10 @@ Rule: No code is written before
 |---------|------------|-------|
 | [**Omega Studio**](https://github.com/FelipKnott/Omega-Studio) | Sovereign AI IDE with local-first inference, RAG, and multi-agent orchestration | TypeScript, Python, Rust, Solid.js, FastAPI |
 | [**Omega RAG**](https://github.com/FelipKnott/Omega-RAG) | Proprietary RAG system with vectorial equalization testing | Python, Qdrant, LangGraph |
-| [**Alpha ERP**](https://github.com/FelipKnott/Alpha-ERP) | Fiscal automation system for Alpha™ | JavaScript, PowerShell |
-| [**Alpha Monthly Control**](https://github.com/FelipKnott/alpha-monthly-control) | Financial control and reporting platform | TypeScript, PostgreSQL, Docker |
-| [**Sistema de Testes**](https://github.com/FelipKnott/Sistema-de-testes---Base) | QA test infrastructure with Python + Cython performance layer | Python, Cython, C, TypeScript |
+| [**Alpha™ Remote Access**](https://github.com/FelipKnott/Remote-Acess-Alphatm) | Self-hosted, secure remote access solution for Alpha™ | Rust, Flutter |
+| [**AlphaTM-ERP**](https://github.com/FelipKnott/AlphaTM-ERP) | Fiscal automation system for Alpha™ | JavaScript |
+| [**Alpha Monthly Control**](https://github.com/FelipKnott/alpha-monthly-control) | Financial control and reporting platform | TypeScript |
+| [**Sistema de Testes**](https://github.com/FelipKnott/Sistema-de-testes---Base) | QA test infrastructure with Python + Cython performance layer | Python |
 
 ---
 
