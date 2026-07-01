@@ -4,7 +4,11 @@
 
 <br>
 
-[![Alpha™](https://img.shields.io/badge/Alpha™-000000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgNjAgNTE1IDcyMCI+DQogIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEwLCA3NzQpIHNjYWxlKDEsIC0xKSIgZmlsbD0iI2ZmZmZmZiI+DQogICAgPHBhdGggZD0iTTQyMSAyOTVIMzEzTDI0MyA1ODBMMTcyIDI5NUg3MUwxODAgNzA0SDMxNFpNNjMgMjY1SDQyOUw0OTggMEgzODVMMzQxIDE2N0gxNDFMMTAwIDBILTdaIi8+DQogIDwvZz4NCjwvc3ZnPg0K)](https://alphatm.net)
+[<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipKnott/FelipKnott/main/logo-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FelipKnott/FelipKnott/main/logo-light.svg">
+  <img src="https://raw.githubusercontent.com/FelipKnott/FelipKnott/main/logo-dark.svg" alt="Alpha™" height="40">
+</picture>](https://alphatm.net)
 
 </div>
 
