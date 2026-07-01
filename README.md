@@ -4,11 +4,11 @@
 
 <br>
 
-[<picture>
+<a href="https://alphatm.net"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipKnott/FelipKnott/main/logo-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FelipKnott/FelipKnott/main/logo-light.svg">
   <img src="https://raw.githubusercontent.com/FelipKnott/FelipKnott/main/logo-dark.svg" alt="Alpha™" height="40">
-</picture>](https://alphatm.net)
+</picture></a>
 
 </div>
 
